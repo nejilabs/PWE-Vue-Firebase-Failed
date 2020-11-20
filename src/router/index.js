@@ -7,6 +7,23 @@ const routes = [
     name: 'Home',
     component: Home
   },
+  //START 9:16
+  {
+    path: '/login',
+    name: 'login',
+    component: Login
+  },
+    {
+    path: '/register',
+    name: 'register',
+    component: Register
+  },
+  {
+    path: '/secret',
+    name: 'secret',
+    component: Secret
+  },
+//END 9:16
   {
     path: '/about',
     name: 'About',

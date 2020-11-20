@@ -10,7 +10,7 @@ Vue.config.productionTip = false; //629
 
 //FIREBASE SDK START 730
   // Your web app's Firebase configuration
-  var firebaseConfig = {
+  const firebaseConfig = {
     apiKey: "AIzaSyCN0SxZk-zSuM5_iXUSvbt4oQLhj-YBXMA",
     authDomain: "pwe-vue-firebase.firebaseapp.com",
     databaseURL: "https://pwe-vue-firebase.firebaseio.com",
