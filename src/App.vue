@@ -1,5 +1,6 @@
 <template>
   <div id="nav">
+    <router-link to="/">Home</router-link> | 
     <router-link to="/about">About</router-link> | 
     <router-link to="/secret">Secret</router-link> |   <!-- 1110 -->
     <router-link to="/login">Login</router-link> |  <!-- 1110 -->

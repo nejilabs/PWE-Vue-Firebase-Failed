@@ -1,5 +1,7 @@
 <template>
-  <div>Secret</div>  
+  <div>
+    <div>Secret</div>
+  </div>
 </template>
 
 <script>
